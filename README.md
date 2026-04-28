@@ -107,6 +107,7 @@ Download Eclipse from Eclipse IDE:
 
 [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
 
+Eclipse IDE for Enterprise Java and Web Developers (2025-12)
 ---
 
 ### 2.2 Run Installer
